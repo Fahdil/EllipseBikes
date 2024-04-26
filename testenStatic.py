@@ -15,7 +15,7 @@ def addToMap(dossier):
         if station_file.endswith('.json'):  # Vérifier s'il s'agit d'un fichier JSON
             chemin_fichier = os.path.join(dossier, station_file)
             
-            try:
+            try: 
                 with open(chemin_fichier, 'r', encoding='utf-8') as f:
                     data = json.load(f)
                     

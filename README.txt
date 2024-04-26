@@ -1,5 +1,5 @@
 
-Le développement du projet comprent 6 fichiers dont 4 fichier python, 1 fichier javaScript et un fichier HTML pis le fichier actuel
+Le développement du projet comprend 6 fichiers dont 4 fichier python, 1 fichier javaScript et un fichier HTML pis le fichier actuel
 
 Fichiers Pythons
  
@@ -25,7 +25,7 @@ Fichiers Pythons
     Ce fichier est le fichier principal et fait appel aux fontions des fichier testen et testen2
 
 5- Fichier testenStatic.py
-    Ce fichier utilise les documents js du dossier Station_info_Json afin d'afficher totes les stations 
+    Ce fichier utilise les documents js du dossier Station_info_Json afin d'afficher toutes les stations 
     grace a la bibliotheque folium
 
 6- Fichier stations_map.html qui est generer site a l'execution du programme
